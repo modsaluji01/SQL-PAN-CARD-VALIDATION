@@ -116,4 +116,4 @@ This project demonstrates how SQL can be used for more than just data retrieval.
 
 ## Author
 
-**Abdullah**
+**Mohammed**
