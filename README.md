@@ -1,5 +1,3 @@
-# SQL-PAN-CARD-VALIDATION
-
 ## Project Overview
 
 This project is based on validating PAN (Permanent Account Number) records using SQL. PAN is a critical identifier used in financial, banking, and government systems, so maintaining its accuracy is very important.
